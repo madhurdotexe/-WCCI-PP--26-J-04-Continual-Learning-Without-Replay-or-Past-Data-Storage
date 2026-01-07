@@ -1,1 +1,1 @@
-# [WCCI-PP--26-J-04] Continual-Learning-Without-Replay-or-Past-Data-Storage
+# [WCCI(PP)-26-J-04] Continual-Learning-Without-Replay-or-Past-Data-Storage
